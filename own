@@ -3,7 +3,7 @@
 #EXTGRP:Bangla News
 #EXTGRP:KIDS
 #EXTGRP:SPORTS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangla News",INDEPENDENT TV
+#EXTINF:-1 ch-number="1" tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangla News",INDEPENDENT TV
 #EXTGRP:Bangla News
 http://103.141.66.36/bpk-tv/10005/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Ekd94G.png" group-title="Bangla",IEDCR LIVE
@@ -22,7 +22,7 @@ http://45.249.187.238:8081/hls/hdmi1.m3u8
 #EXTINF:-1 tvg-logo=group-title="KIDS",Toonami aftermath
 #EXTGRP:KIDS
 https://sp6.toonamiaftermath.com/livehttporigin/est/lalRCx-acZl9Q-chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 HD
+#EXTINF:-1 ch-number="2"tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 HD
 #EXTGRP:SPORTS
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD
