@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTGRP:Bangla
-#EXTGRP:Bangla News
-#EXTGRP:KIDS
-#EXTGRP:SPORTS
+#EXTGRP: Bangla
+#EXTGRP: Bangla News
+#EXTGRP: KIDS
+#EXTGRP: SPORTS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangla News",INDEPENDENT TV
 #EXTGRP:Bangla News
 http://103.141.66.36/bpk-tv/10005/default/manifest.mpd
