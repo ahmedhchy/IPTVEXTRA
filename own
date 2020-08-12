@@ -15,3 +15,12 @@ http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 
 #EXTINF:0 channel-id="5" group-title="HINDI ENT." tvg-logo="https://i.imgur.com/TBwHZ9k.jpg",STAR PLUS HD
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+
+#EXTINF:1 group-title="HINDI ENT." tvg-logo="https://i.imgur.com/jbNSmlL.png",COLORS HD
+https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
+#EXTINF:1 group-title="HINDI ENT." tvg-logo="https://i.imgur.com/wiVpMl4.png",COLORS RISHTEY
+https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+
+#EXTINF:1 group-title="HINDI ENT." tvg-logo="https://i.imgur.com/RcuFK1k.jpg",And Picture HD
+http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
