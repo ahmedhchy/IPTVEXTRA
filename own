@@ -1,117 +1,12 @@
 #EXTM3U
 
 
-#EXTINF:-1 channel-id="1.1" group-title="BANGLA" tvg-logo="https://i.imgur.com/T38Oiwl.jpg",EKUSHEY TV HD
+#EXTINF:0 channel-id="1.1" group-title="BANGLA" tvg-logo="https://i.imgur.com/T38Oiwl.jpg",EKUSHEY TV HD
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 
-#EXTINF:-1 channel-id="1.2" group-title="BANGLA" tvg-logo="https://i.imgur.com/sTDSKGR.png",CHANNEL 9 HD
+#EXTINF:0 channel-id="1.2" group-title="BANGLA" tvg-logo="https://i.imgur.com/sTDSKGR.png",CHANNEL 9 HD
 http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
 
-#EXTINF:-1 channel-id="1.3" group-title="BANGLA ENT." tvg-logo="https://i.imgur.com/D6jGMpw.jpg",Star Jalsha HD
+#EXTINF:0 channel-id="1.3" group-title="BANGLA ENT." tvg-logo="https://i.imgur.com/D6jGMpw.jpg",Star Jalsha HD
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 
-#EXTINF:-1,Arkansas (2020)
-http://hdonline.ml:80/movie/y2/y2/1604.mkv
-#EXTINF:-1,Bad Education (2019)
-http://hdonline.ml:80/movie/y2/y2/1605.mkv
-#EXTINF:-1,Casino Royale (2006)
-http://hdonline.ml:80/movie/y2/y2/1606.mkv
-#EXTINF:-1,Dr. No (1962)
-http://hdonline.ml:80/movie/y2/y2/1607.mkv
-#EXTINF:-1,Extraction (2020)
-http://hdonline.ml:80/movie/y2/y2/1608.mkv
-#EXTINF:-1,From Russia with Love (1963)
-http://hdonline.ml:80/movie/y2/y2/1609.mkv
-#EXTINF:-1,Get on Up (2014)
-http://hdonline.ml:80/movie/y2/y2/1610.mkv
-#EXTINF:-1,Goldfinger (1964)
-http://hdonline.ml:80/movie/y2/y2/1611.mkv
-#EXTINF:-1,Greed (2020)
-http://hdonline.ml:80/movie/y2/y2/1612.mkv
-#EXTINF:-1,A View to a Kill (1985)
-http://hdonline.ml:80/movie/y2/y2/1613.mkv
-#EXTINF:-1,Diamonds Are Forever (1971)
-http://hdonline.ml:80/movie/y2/y2/1614.mkv
-#EXTINF:-1,Die Another Day (2002)
-http://hdonline.ml:80/movie/y2/y2/1615.mkv
-#EXTINF:-1,For Your Eyes Only (1981)
-http://hdonline.ml:80/movie/y2/y2/1616.mkv
-#EXTINF:-1,GoldenEye (1995)
-http://hdonline.ml:80/movie/y2/y2/1617.mkv
-#EXTINF:-1,Licence to Kill (1989)
-http://hdonline.ml:80/movie/y2/y2/1618.mkv
-#EXTINF:-1,Moonraker (1979)
-http://hdonline.ml:80/movie/y2/y2/1619.mkv
-#EXTINF:-1,Never Say Never Again (1983)
-http://hdonline.ml:80/movie/y2/y2/1620.mkv
-#EXTINF:-1,Octopussy (1983)
-http://hdonline.ml:80/movie/y2/y2/1621.mkv
-#EXTINF:-1,Quantum of Solace (2008)
-http://hdonline.ml:80/movie/y2/y2/1622.mkv
-#EXTINF:-1,The Man with the Golden Gun (1974)
-http://hdonline.ml:80/movie/y2/y2/1623.mkv
-#EXTINF:-1,The Spy Who Loved Me (1977)
-http://hdonline.ml:80/movie/y2/y2/1624.mkv
-#EXTINF:-1,The World Is Not Enough (1999)
-http://hdonline.ml:80/movie/y2/y2/1625.mkv
-#EXTINF:-1,Justice League Dark: Apokolips War (2020)
-http://hdonline.ml:80/movie/y2/y2/1626.mkv
-#EXTINF:-1,Live and Let Die (1973)
-http://hdonline.ml:80/movie/y2/y2/1627.mkv
-#EXTINF:-1,Red Corner (1997)
-http://hdonline.ml:80/movie/y2/y2/1628.mkv
-#EXTINF:-1,Shanghai Knights (2003)
-http://hdonline.ml:80/movie/y2/y2/1629.mkv
-#EXTINF:-1,Skyfall
-http://hdonline.ml:80/movie/y2/y2/1630.mkv
-#EXTINF:-1,The Assistant (2020)
-http://hdonline.ml:80/movie/y2/y2/1631.mkv
-#EXTINF:-1,The.Fountian
-http://hdonline.ml:80/movie/y2/y2/1632.mkv
-#EXTINF:-1,The Living Daylights (1987)
-http://hdonline.ml:80/movie/y2/y2/1633.mkv
-#EXTINF:-1,The Lodge (2019)
-http://hdonline.ml:80/movie/y2/y2/1634.mkv
-#EXTINF:-1,The Marine 2 (2009)
-http://hdonline.ml:80/movie/y2/y2/1635.mkv
-#EXTINF:-1,The Marine 4: Moving Target (2015)
-http://hdonline.ml:80/movie/y2/y2/1636.mkv
-#EXTINF:-1,The Marine 6: Close Quarters (2018)
-http://hdonline.ml:80/movie/y2/y2/1637.mkv
-#EXTINF:-1,The Marine (2006)
-http://hdonline.ml:80/movie/y2/y2/1638.mkv
-#EXTINF:-1,Thunderball (1965)
-http://hdonline.ml:80/movie/y2/y2/1673.mkv
-#EXTINF:-1,Unfaithful (2002)
-http://hdonline.ml:80/movie/y2/y2/1674.mkv
-#EXTINF:-1,Uri: The Surgical Strike (2019)
-http://hdonline.ml:80/movie/y2/y2/1675.mkv
-#EXTINF:-1,War Dogs (2016)
-http://hdonline.ml:80/movie/y2/y2/1676.mkv
-#EXTINF:-1,Warrior (2011)
-http://hdonline.ml:80/movie/y2/y2/1677.mkv
-#EXTINF:-1,Wild Hogs (2007)
-http://hdonline.ml:80/movie/y2/y2/1678.mkv
-#EXTINF:-1,G.I. Joe: Retaliation (2013)
-http://hdonline.ml:80/movie/y2/y2/5021.mkv
-#EXTINF:-1,9 (2009)
-http://hdonline.ml:80/movie/y2/y2/5022.mkv
-#EXTINF:-1,10 Cloverfield Lane (2016)
-http://hdonline.ml:80/movie/y2/y2/5023.mkv
-#EXTINF:-1,Twelve Monkeys (1995)
-http://hdonline.ml:80/movie/y2/y2/5024.mkv
-#EXTINF:-1,12 Strong (2018)
-http://hdonline.ml:80/movie/y2/y2/5025.mkv
-#EXTINF:-1,21 Bridges (2019)
-http://hdonline.ml:80/movie/y2/y2/5026.mkv
-#EXTINF:-1,28 Days Later (2002)
-http://hdonline.ml:80/movie/y2/y2/5027.mkv
-#EXTINF:-1,28 Weeks Later (2007)
-http://hdonline.ml:80/movie/y2/y2/5028.mkv
-#EXTINF:-1,1917 (2019)
-http://hdonline.ml:80/movie/y2/y2/5029.mkv
-#EXTINF:-1,2001: A Space Odyssey (1968)
-http://hdonline.ml:80/movie/y2/y2/5030.mkv
-#EXTINF:-1,2012 (2009)
-http://hdonline.ml:80/movie/y2/y2/5031.mkv
-#EXTINF:-1,2048: Nowhere to Run (2017)
