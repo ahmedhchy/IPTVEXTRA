@@ -3,7 +3,7 @@
 #EXTGRP:Bangla News
 #EXTGRP:KIDS
 #EXTGRP:SPORTS
-#EXTINF:0 tvg-logo="https://i.imgur.com/AMk8mRZ.png" ch-number="1" group-title="Bangla News",INDEPENDENT TV
+#EXTINF:0 ch-number="1" tvg-name="INDEPENDENT TV" tvg-logo="https://i.imgur.com/AMk8mRZ.png"  group-title="Bangla News"
 #EXTGRP:Bangla News
 http://103.141.66.36/bpk-tv/10005/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Ekd94G.png" group-title="Bangla",IEDCR LIVE
